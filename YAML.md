@@ -21,4 +21,9 @@ La duda más común entre los principiantes es qué significan los tres guiones 
 
 **Este es un ejemplo muy básico de un archivo YAML:**
 
-`#Comentario: esta es una lista de supermercado que utiliza YAML #Nota - el carácter representa la lista --- comida: - vegetales: tomates #primer elemento de la lista - frutas: #segundo elemento de la lista cítricos: naranjas tropicales: bananas nueces: maní dulces: pasas`
+```
+#Comentario: esta es una lista de supermercado que utiliza YAML #Nota - el carácter representa la lista --- comida: - vegetales: tomates #primer elemento de la lista - frutas: #segundo elemento de la lista cítricos: naranjas tropicales: bananas nueces: maní dulces: pasas
+```
+## Webgrafía
+
+[¿Qué es YAML?](https://www.redhat.com/es/topics/automation/what-is-yaml)
