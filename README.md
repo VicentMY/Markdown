@@ -1,7 +1,8 @@
 # YAML y JSON
 ## Índice
-[YAML](#YAML)
-[JSON](#JSON)
+**[YAML](#YAML)**, lenguage de serialización.
+
+**[JSON](#JSON)**, lenguage de intercambio de datos.
 
 ## YAML
 
