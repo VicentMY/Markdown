@@ -28,6 +28,7 @@ La duda más común entre los principiantes es qué significan los tres guiones 
 ```
 
 
+
 ## Webgrafía
 
 [¿Qué es YAML?](what-is-a-yaml-file.png)
